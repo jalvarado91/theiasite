@@ -4,8 +4,8 @@
 @import "bootstrap_base";
 
 $font-stack: 'Gotham', sans-serif;
-$primaryColor: #A6ECF8;
-$primaryColor-dark: #8CD7F5;
+$primaryColor: #2bd3ef;
+$primaryColor-dark: #2bd3ef;
 
 body {
   font-family: $font-stack;
@@ -45,6 +45,7 @@ body {
     margin: 18px 8px;
     line-height: 1em;
     font-weight: 300;
+    color: #2bd3ef;
   }
   .tagline {
     margin: 0;
